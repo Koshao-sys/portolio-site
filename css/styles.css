@@ -496,6 +496,12 @@ h3.my-profession {
     display: block;
 }
 
+.proj-desc {
+    color: var(--text-black-900);
+    margin-left: 5px;
+    text-align: center;
+}
+
 /** contact section **/
 .contact-title {
     color: var(--skin-color);
